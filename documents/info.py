@@ -22,6 +22,17 @@ Python Exercise 2
 
 Diccionarios -
 While loops -
+For loops in python
+Listas 2d and nested loop
+Comentarios
+Construyendo calculadora
+Try Exept python
+Reading files and Writing files
+Clases y objetos
+Herencia    
+Python interpreter
+Modules
+Introduccion a PIP
 
 
 """
