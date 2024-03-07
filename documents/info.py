@@ -64,3 +64,23 @@ print(username[3])
 
 print(username.upper())
 print(username.islower())
+
+# Nivel 4 - Numbers 
+#  .srt([dato a cimbertir a string]) - .abs() (abosulete values) - .max([primer numero], [segundo numero]) - .min() - .round([around the value]) - bin([retorn the binar value]) 
+# from match import *  [de la clase math importamos todo] -   sqrt([retorna la multiplicacion de los cuadrados])
+from math import *
+
+my_number = 32
+print(my_number)
+
+print(my_number * 2)
+
+print(abs(-9))
+
+print(sqrt(4546))
+
+
+# Nivel 5 - Getting users input
+#
+user = input('Input your user: ')
+print('Hello ' + user)
