@@ -81,6 +81,8 @@ print(sqrt(4546))
 
 
 # Nivel 5 - Getting users input
-#
+# input([message to users])
 user = input('Input your user: ')
-print('Hello ' + user)
+
+pin_value = int(input('Input ypur PIN:'))
+print('Hello ' + user, "PIN CONFIRM:", pin_value)
